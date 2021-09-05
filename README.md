@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @raeyu1
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning r, c++ languages for my online courses
+- 🌱 I’m currently learning r, java languages for my online courses
 - 💞️ I’m looking to collaborate on my studies that could help me potentially.
 - 📫 How to reach me via email, roychan4020@gmail.com or my discord Raeyu#9630.
 
